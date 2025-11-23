@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "575089326122",
+    "project_id": "pamodzi-ccc3c",
+    "storage_bucket": "pamodzi-ccc3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575089326122:android:6b78adb88b863f0e3c2b53",
+        "android_client_info": {
+          "package_name": "com.example.admin_dashboard_clean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmKs9KdLYhwj2gGDLk3nnUQDPEtcFxo5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575089326122:android:ab26b752a3dbd6073c2b53",
+        "android_client_info": {
+          "package_name": "com.example.admin_grok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmKs9KdLYhwj2gGDLk3nnUQDPEtcFxo5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575089326122:android:6b9eb57df2a8875c3c2b53",
+        "android_client_info": {
+          "package_name": "com.example.pamodzi_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmKs9KdLYhwj2gGDLk3nnUQDPEtcFxo5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575089326122:android:3b680c5e02c48e4e3c2b53",
+        "android_client_info": {
+          "package_name": "com.example.vocifer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmKs9KdLYhwj2gGDLk3nnUQDPEtcFxo5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575089326122:android:e5e24fa785ddf6f83c2b53",
+        "android_client_info": {
+          "package_name": "com.example.vocifer_fixed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmKs9KdLYhwj2gGDLk3nnUQDPEtcFxo5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,73 @@
+name: vocifer
+description: "Police/Emergency Response Management System"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI Components
+  cupertino_icons: ^1.0.8
+
+  # Firebase
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  firebase_auth: ^5.3.1
+  firebase_storage: ^12.3.4
+
+  # Google Maps
+  google_maps_flutter: ^2.9.0
+  geolocator: ^13.0.2
+  geocoding: ^3.0.0
+
+  # State Management
+  provider: ^6.1.2
+
+  # Charts & Visualization
+  fl_chart: ^0.69.0
+  syncfusion_flutter_charts: ^27.1.58
+
+  # Networking
+  http: ^1.2.2
+  dio: ^5.7.0
+
+  # Utilities
+  intl: ^0.19.0
+  uuid: ^4.5.1
+  cached_network_image: ^3.4.1
+  image_picker: ^1.1.2
+
+  # Environment Variables
+  flutter_dotenv: ^5.2.1
+
+  # Date & Time
+  timeago: ^3.7.0
+
+  # Animations
+  lottie: ^3.1.3
+  flutter_animate: ^4.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/.env
+
+  # Uncomment and add custom fonts if needed
+  # fonts:
+  #   - family: Poppins
+  #     fonts:
+  #       - asset: fonts/Poppins-Regular.ttf
+  #       - asset: fonts/Poppins-Bold.ttf
+  #         weight: 700
