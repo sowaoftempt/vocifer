@@ -1,4 +1,4 @@
-﻿// lib/screens/admin_page.dart
+// lib/screens/admin_page.dart
 import 'package:flutter/material.dart';
 import '../config/app_theme.dart';
 import '../services/firebase_service.dart';
@@ -294,7 +294,7 @@ class _AdminPageState extends State<AdminPage> {
                     () {
                   // TODO: Navigate to map
                   ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('Map view coming in Phase 4!')),
+                    const SnackBar(content: Text('Map view coming in Phase 4!')), 
                   );
                 },
               ),
@@ -323,7 +323,7 @@ class _AdminPageState extends State<AdminPage> {
                     () {
                   // TODO: Navigate to analytics
                   ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('Analytics coming in Phase 5!')),
+                    const SnackBar(content: Text('Analytics coming in Phase 5!')), 
                   );
                 },
               ),
@@ -337,7 +337,7 @@ class _AdminPageState extends State<AdminPage> {
                     () {
                   // TODO: Navigate to AI assist
                   ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('AI features coming in Phase 6!')),
+                    const SnackBar(content: Text('AI features coming in Phase 6!')), 
                   );
                 },
               ),
@@ -500,7 +500,7 @@ class _AdminPageState extends State<AdminPage> {
         onTap: () {
           // TODO: Navigate to incident detail
           ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(content: Text('Incident details for $id')),
+            SnackBar(content: Text('Incident details for $id')), 
           );
         },
         borderRadius: BorderRadius.circular(12),
@@ -580,5 +580,3 @@ class _AdminPageState extends State<AdminPage> {
     );
   }
 }
-
-
